@@ -3,8 +3,10 @@ import react from 'react'
 
 class App extends React.Component {
     render () {
-        return {
-            
-        }
+        return (
+            <div>Hello World</div>
+        )        
     }
 }
+
+export default App
